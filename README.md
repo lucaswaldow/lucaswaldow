@@ -1,7 +1,7 @@
 ## Oi galera!! Eu sou o Lucas Waldow  👨‍💻
 
 - 🌱 Estou estudando Pynthon
-- 🤔 Toda ajuda é bem vinda
+- 🤔 Dicas, ajuda e Conselhos são bem vindos!
 
 <div align="center">
   <a href="https://github.com/lucaswaldow">
