@@ -1,5 +1,6 @@
 ## Oi galera!! Eu sou o Lucas Waldow  👨‍💻
 
+- 💻 Atualmente não trabalho como programador, criando oportunidades
 - 🌱 Estou estudando Pynthon
 - 🤔 Dicas, ajuda e Conselhos são bem vindos!
 
