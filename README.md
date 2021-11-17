@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Pynthon
 - 🤔 Dicas, ajuda e Conselhos são bem vindos!
 
-<div align="center">
+<div>
   <a href="https://github.com/lucaswaldow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaswaldow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
