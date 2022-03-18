@@ -1,7 +1,7 @@
 ## Oi galera!! Eu sou o Lucas Waldow  👨‍💻
 
-- 💻 Atualmente não trabalho como programador, criando oportunidades
-- 🌱 Estou estudando Pynthon
+- 💻 Assistente de Desenvolvimento de Sistemas Jr
+- 🌱 Estou estudando Html, css, js e Sql
 - 🤔 Dicas, ajuda e Conselhos são bem vindos!
 
 <div>
