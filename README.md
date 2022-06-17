@@ -1,6 +1,6 @@
 ## Oi galera!! Eu sou o Lucas Waldow  👨‍💻
 
-- 💻 Assistente de Desenvolvimento de Sistemas Jr
+- 💻 Desenvolvedor Python
 - 🌱 Estou estudando HTML, CSS, js e Sql
 - 🤔 Dicas, ajuda e Conselhos são bem vindos!
 
